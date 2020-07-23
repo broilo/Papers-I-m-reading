@@ -28,6 +28,10 @@
 
 ---
 
+### [Knowledge Graphs:](https://www.analyticsvidhya.com/blog/2019/10/how-to-build-knowledge-graph-text-using-spacy/)
+
+---
+
 ### Currently reading:
 
   (1) https://towardsdatascience.com/what-is-the-key-skill-that-the-best-data-scientists-have-655edea228ac
