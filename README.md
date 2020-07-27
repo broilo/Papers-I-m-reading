@@ -32,6 +32,12 @@
 
 ---
 
+### Color [Identification in Images](https://towardsdatascience.com/color-identification-in-images-machine-learning-application-b26e770c4c71)
+
+[Github](https://github.com/kb22/Color-Identification-using-Machine-Learning/blob/master/Color%20Identification%20using%20Machine%20Learning.ipynb) 
+
+---
+
 ### Currently reading:
 
   (1) https://towardsdatascience.com/what-is-the-key-skill-that-the-best-data-scientists-have-655edea228ac
