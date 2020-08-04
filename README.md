@@ -40,14 +40,15 @@
 
 ### [Predictive Power Score](https://towardsdatascience.com/rip-correlation-introducing-the-predictive-power-score-3d90808b9598)
 
-'''
+```
 pip install ppscore
 
 import ppscore as pps
 pps.score(df, "feature_column", "target_column")
 
 pps.matrix(df)
-'''
+
+```
 
 ---
 
