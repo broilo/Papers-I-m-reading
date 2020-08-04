@@ -38,6 +38,23 @@
 
 ---
 
+### [Predictive Power Score](https://towardsdatascience.com/rip-correlation-introducing-the-predictive-power-score-3d90808b9598)
+
+'''
+pip install ppscore
+
+import ppscore as pps
+pps.score(df, "feature_column", "target_column")
+
+pps.matrix(df)
+'''
+
+---
+
+[Markdown Basics](https://www.markdownguide.org/extended-syntax/)
+
+---
+
 ### Currently reading:
 
   (1) https://towardsdatascience.com/what-is-the-key-skill-that-the-best-data-scientists-have-655edea228ac
