@@ -40,6 +40,8 @@
 
 ### [Predictive Power Score](https://towardsdatascience.com/rip-correlation-introducing-the-predictive-power-score-3d90808b9598)
 
+[Documentation](https://github.com/8080labs/ppscore)
+
 ```
 pip install ppscore
 
