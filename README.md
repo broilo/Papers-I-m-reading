@@ -47,7 +47,6 @@ import ppscore as pps
 pps.score(df, "feature_column", "target_column")
 
 pps.matrix(df)
-
 ```
 
 ---
