@@ -57,10 +57,38 @@ pps.matrix(df)
 
 ---
 
-### Currently reading:
+### Medium readings:
 
-  (1) https://towardsdatascience.com/what-is-the-key-skill-that-the-best-data-scientists-have-655edea228ac
-    
-      There are a few things here to more carefully study
-    
-  (2) https://towardsdatascience.com/how-we-published-a-successful-dataset-on-kaggle-2945de537597
+1. [What is the key skill that the best data scientists have?](https://towardsdatascience.com/what-is-the-key-skill-that-the-best-data-scientists-have-655edea228ac)
+  
+1. [Choose the Best Python Web Scraping Library for Your Application](https://towardsdatascience.com/choose-the-best-python-web-scraping-library-for-your-application-91a68bc81c4f)
+
+1. [A Step by Step Guide to Web Scraping in Python](https://towardsdatascience.com/a-step-by-step-guide-to-web-scraping-in-python-5c4d9cef76e8)
+
+1. [Deploying a Python Web App on AWS](https://towardsdatascience.com/deploying-a-python-web-app-on-aws-57ed772b2319)
+
+1. [Using Transformer-Based Language Models for Sentiment Analysis](Using Transformer-Based Language Models for Sentiment Analysis)
+
+1. [Simple Transformers — Multi-Class Text Classification with BERT, RoBERTa, XLNet, XLM, and DistilBERT](https://medium.com/swlh/simple-transformers-multi-class-text-classification-with-bert-roberta-xlnet-xlm-and-8b585000ce3a)
+
+1. [Natural Language Processing (NLP) with Python — Tutorial](https://medium.com/towards-artificial-intelligence/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0)
+
+1. [Introduction to Word Embeddings](https://towardsdatascience.com/introduction-to-word-embeddings-4cf857b12edc)
+
+1. [I had no idea how to build a Machine Learning Pipeline. But here’s what I figured.](https://towardsdatascience.com/i-had-no-idea-how-to-build-a-machine-learning-pipeline-but-heres-what-i-figured-f3a7773513a)
+
+1. [3 Ways to Make Extra Income as a Data Scientist](https://towardsdatascience.com/3-ways-to-make-extra-income-as-a-data-scientist-eed02749208c)
+
+---
+
+### Datasets
+
+1. [17 Best Crime Datasets for Machine Learning](https://lionbridge.ai/datasets/16-best-crime-datasets-for-machine-learning/)
+
+---
+
+### Blogs
+
+1. [Tudo sobre o BERT: o novo algoritmo do Google que promete revolucionar as SERPs](https://rockcontent.com/br/blog/bert/)
+
+1. [Escaneabilidade: por que isso é tão importante para seu blog](https://rockcontent.com/br/blog/escaneabilidade/)
