@@ -67,7 +67,7 @@ pps.matrix(df)
 
 1. [Deploying a Python Web App on AWS](https://towardsdatascience.com/deploying-a-python-web-app-on-aws-57ed772b2319)
 
-1. [Using Transformer-Based Language Models for Sentiment Analysis](Using Transformer-Based Language Models for Sentiment Analysis)
+1. [Using Transformer-Based Language Models for Sentiment Analysis](https://towardsdatascience.com/using-transformer-based-language-models-for-sentiment-analysis-dc3c10261eec)
 
 1. [Simple Transformers — Multi-Class Text Classification with BERT, RoBERTa, XLNet, XLM, and DistilBERT](https://medium.com/swlh/simple-transformers-multi-class-text-classification-with-bert-roberta-xlnet-xlm-and-8b585000ce3a)
 
