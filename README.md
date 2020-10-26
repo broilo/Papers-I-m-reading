@@ -79,6 +79,12 @@ pps.matrix(df)
 
 1. [3 Ways to Make Extra Income as a Data Scientist](https://towardsdatascience.com/3-ways-to-make-extra-income-as-a-data-scientist-eed02749208c)
 
+1. [Applications of Zero-Shot Learning](https://towardsdatascience.com/applications-of-zero-shot-learning-f65bb232963f)
+
+1. [One Shot Learning with Siamese Networks using Keras](https://towardsdatascience.com/one-shot-learning-with-siamese-networks-using-keras-17f34e75bb3d)
+
+1. [Introduction to semi-supervised learning and adversarial training](https://medium.com/inside-machine-learning/placeholder-3557ebb3d470)
+
 ---
 
 ### Datasets
@@ -92,3 +98,5 @@ pps.matrix(df)
 1. [Tudo sobre o BERT: o novo algoritmo do Google que promete revolucionar as SERPs](https://rockcontent.com/br/blog/bert/)
 
 1. [Escaneabilidade: por que isso é tão importante para seu blog](https://rockcontent.com/br/blog/escaneabilidade/)
+
+1. [Self-supervised learning and computer vision](https://www.fast.ai/2020/01/13/self_supervised/)
