@@ -85,6 +85,7 @@ pps.matrix(df)
 
 1. [Introduction to semi-supervised learning and adversarial training](https://medium.com/inside-machine-learning/placeholder-3557ebb3d470)
 
+1. [The 7 NLP Techniques That Will Change How You Communicate in the Future (Part II)](https://heartbeat.fritz.ai/the-7-nlp-techniques-that-will-change-how-you-communicate-in-the-future-part-ii-636ab06da258)
 ---
 
 ### Datasets
