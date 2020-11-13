@@ -103,3 +103,5 @@ pps.matrix(df)
 1. [Self-supervised learning and computer vision](https://www.fast.ai/2020/01/13/self_supervised/)
 
 1. [EARLY STOPPING](https://siegel.work/blog/EarlyStopping/)
+
+1. [Early Stopping](https://deepai.org/machine-learning-glossary-and-terms/early-stopping-machine-learning)
