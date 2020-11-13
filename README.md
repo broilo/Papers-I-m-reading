@@ -101,3 +101,5 @@ pps.matrix(df)
 1. [Escaneabilidade: por que isso é tão importante para seu blog](https://rockcontent.com/br/blog/escaneabilidade/)
 
 1. [Self-supervised learning and computer vision](https://www.fast.ai/2020/01/13/self_supervised/)
+
+1. [EARLY STOPPING](https://siegel.work/blog/EarlyStopping/)
