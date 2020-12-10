@@ -107,3 +107,5 @@ pps.matrix(df)
 1. [EARLY STOPPING](https://siegel.work/blog/EarlyStopping/)
 
 1. [Early Stopping](https://deepai.org/machine-learning-glossary-and-terms/early-stopping-machine-learning)
+
+1. [It will change everything’: DeepMind’s AI makes gigantic leap in solving protein structures](https://www.nature.com/articles/d41586-020-03348-4)
