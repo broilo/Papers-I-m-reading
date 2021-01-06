@@ -88,6 +88,8 @@ pps.matrix(df)
 1. [The 7 NLP Techniques That Will Change How You Communicate in the Future (Part II)](https://heartbeat.fritz.ai/the-7-nlp-techniques-that-will-change-how-you-communicate-in-the-future-part-ii-636ab06da258)
 
 1. [Jupyter Notebook in a virtual environment (virtualenv)](https://medium.com/@eleroy/jupyter-notebook-in-a-virtual-environment-virtualenv-8f3c3448247)
+
+1. [How to Present Machine Learning Results to Non-Technical People](https://towardsdatascience.com/how-to-present-machine-learning-results-to-non-technical-people-e096cc1b9f76)
 ---
 
 ### Datasets
