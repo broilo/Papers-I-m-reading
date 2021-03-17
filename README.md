@@ -57,6 +57,52 @@ pps.matrix(df)
 
 ---
 
+## Tutorials:
+
+### Amazon EC2
+
+1. [amazon ec2 - keep server running on EC2 instance after ssh is terminated - Stack Overflow](https://stackoverflow.com/questions/21193988/keep-server-running-on-ec2-instance-after-ssh-is-terminated)
+
+### Optimization
+
+1. [GEKKO Optimization Suite](https://gekko.readthedocs.io/en/latest/)
+
+1. [GEKKO Python Tutorials](https://apmonitor.com/wiki/index.php/Main/GekkoPythonOptimization)
+
+### Versioning
+
+1. [git - the simple guide](http://rogerdudler.github.io/git-guide/)
+
+### NLU & NLP
+
+1. [NLP Model Selection](https://miro.com/app/board/o9J_ksdMmCY=/)
+
+1. [Rasa Playground](https://rasa.com/docs/rasa/playground/)
+
+1. [NLP Course | For You](https://lena-voita.github.io/nlp_course.html)
+
+1. [The Super Duper NLP Repo](https://notebooks.quantumstat.com/)
+
+### Virtual Environment
+
+1. [Pipenv & Virtual Environments](https://docs.python-guide.org/dev/virtualenvs/)
+
+### Senriment Analysis
+
+1. [Python | Sentiment Analysis using VADER](https://www.geeksforgeeks.org/python-sentiment-analysis-using-vader/)
+
+### Hacks that I always forget
+
+1. [How to Format Dates in Python](https://stackabuse.com/how-to-format-dates-in-python/)
+
+1. [Como Calcular o Intervalo de Confiança](https://pt.wikihow.com/Calcular-o-Intervalo-de-Confian%C3%A7a)
+
+### Sampling & Resampling
+
+1. [Chapter 8 Bootstrapping and Confidence Intervals](https://moderndive.com/8-confidence-intervals.html)
+
+
+
 ### Medium readings:
 
 1. [What is the key skill that the best data scientists have?](https://towardsdatascience.com/what-is-the-key-skill-that-the-best-data-scientists-have-655edea228ac)
@@ -111,3 +157,7 @@ pps.matrix(df)
 1. [Early Stopping](https://deepai.org/machine-learning-glossary-and-terms/early-stopping-machine-learning)
 
 1. [It will change everything’: DeepMind’s AI makes gigantic leap in solving protein structures](https://www.nature.com/articles/d41586-020-03348-4)
+
+## Books
+
+[Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/index.html)
